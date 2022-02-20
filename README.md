@@ -11,3 +11,5 @@ Simple calculator made in react native.
 <a href="./download/calculator-app.zip" download>Click to Download (ZIP)</a>
 
 # Image Gallery
+
+<img src="./images/example.png" />
