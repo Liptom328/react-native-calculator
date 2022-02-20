@@ -12,4 +12,4 @@ Simple calculator made in react native.
 
 # Image Gallery
 
-<img src="./images/example.PNG" alt="example" /> <img src="./images/example1.PNG" alt="example1" />
+<img src="./images/example.PNG" alt="example" /> <img src="./images/example1.PNG" alt="example1" /> <img src="./images/example2.PNG" alt="example2" />
