@@ -8,6 +8,6 @@ Simple calculator made in react native.
 
 # Download:
 
-<a href="./download/calculator-app.zip" download>Click to Download ZIP</a>
+<a href="./download/calculator-app.zip" download>Click to Download (ZIP)</a>
 
 # Image Gallery
