@@ -1,6 +1,6 @@
 # React Native Calculator
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Liptom328/react-native-calculator/)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Liptom328/react-native-calculator)
 
 Simple calculator made in react native.
 
