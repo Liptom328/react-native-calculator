@@ -1,6 +1,6 @@
 # React Native Calculator
 
-[![hits](https://hits.deltapapa.io/github/Liptom328/react-native-calculator.svg)](https://hits.deltapapa.io)
+[![Hits](https://hits.deltapapa.io/github/Liptom328/react-native-calculator.svg)](https://hits.deltapapa.io)
 
 
 Simple calculator made in react native.
